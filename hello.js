@@ -7,3 +7,4 @@ define(function(require, exports, module) {
 });
 console.log("mend ");
 console.log("say hello");
+window.setPosition(newPosOrxValue, yValue);
