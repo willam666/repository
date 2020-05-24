@@ -1,3 +1,4 @@
+
 # -*- coding:utf-8 -*-
 
 from turtle import*
@@ -283,6 +284,6 @@ def main():
     foot(2,-177)        #脚
     tail(148,-155)      #尾巴
     done()
-
+    done()
 if __name__ == '__main__':
     main()
